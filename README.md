@@ -33,6 +33,10 @@ Before you build and run this project, ensure you have the following installed:
 
 ### **1️⃣ Clone the Repository**
 Open a terminal and run:
+- git clone https://github.com/Miraaqib786/my-maven-project.git
+- cd my-maven-project
 
-git clone https://github.com/Miraaqib786/my-maven-project.git
-cd my-maven-project
+### Build the Project
+- mvn clean package
+- mvn test
+- mvn exec:java
