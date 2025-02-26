@@ -12,13 +12,13 @@ my-maven-project/ │-- src/ │ ├── main/ │ │ ├── java/com/exam
 ### **On Windows (PowerShell)**
 Open PowerShell and run:
 
-mkdir my-maven-project/src/main/java/com/example/app
-mkdir my-maven-project/src/test/java/com/example/app
-New-Item -ItemType File my-maven-project/src/main/java/com/example/app/App.java
-New-Item -ItemType File my-maven-project/src/test/java/com/example/app/AppTest.java
-New-Item -ItemType File my-maven-project/pom.xml
-New-Item -ItemType File my-maven-project/Jenkinsfile
-New-Item -ItemType File my-maven-project/README.md
+- mkdir my-maven-project/src/main/java/com/example/app
+- mkdir my-maven-project/src/test/java/com/example/app
+- New-Item -ItemType File my-maven-project/src/main/java/com/example/app/App.java
+- New-Item -ItemType File my-maven-project/src/test/java/com/example/app/AppTest.java
+- New-Item -ItemType File my-maven-project/pom.xml
+- New-Item -ItemType File my-maven-project/Jenkinsfile
+- New-Item -ItemType File my-maven-project/README.md
 
 # 🔧 Prerequisites
 
